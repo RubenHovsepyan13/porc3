@@ -1,0 +1,7 @@
+C:\Users\MyASUS\source\repos\myC#10\myC#10\obj\Debug\myC#10.csproj.AssemblyReference.cache
+C:\Users\MyASUS\source\repos\myC#10\myC#10\obj\Debug\myC#10.csproj.CoreCompileInputs.cache
+C:\Users\MyASUS\source\repos\myC#10\myC#10\bin\Debug\myC#10.exe.config
+C:\Users\MyASUS\source\repos\myC#10\myC#10\bin\Debug\myC#10.exe
+C:\Users\MyASUS\source\repos\myC#10\myC#10\bin\Debug\myC#10.pdb
+C:\Users\MyASUS\source\repos\myC#10\myC#10\obj\Debug\myC#10.exe
+C:\Users\MyASUS\source\repos\myC#10\myC#10\obj\Debug\myC#10.pdb
